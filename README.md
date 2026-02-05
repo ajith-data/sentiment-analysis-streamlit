@@ -1,5 +1,7 @@
 📊 AI Sentiment Analysis App (Streamlit)
+
 Project Link(https://sentiment-analysis-app-jaszyp52ffl3gjffsyhrun.streamlit.app/)
+
 An interactive Sentiment Analysis web application built using Python, Streamlit, and NLTK (VADER).
 The app analyzes reviews from Text, CSV, JSON files and classifies them as Positive, Neutral, or Negative, with visual insights.
 
